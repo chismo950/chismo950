@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chismo950
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning golang
+- 🌱 I'm currently working on the front end of the Cosmos chain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
