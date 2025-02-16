@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chismo950
-- 👀 I’m interested in blockchain
-- 🌱 I'm currently working on the front end of the Cosmos chain
+- 👋 Hi, I’m Eason
+- 👀 I’m interested in web3
+- 🌱 I'm currently working on the front end of the web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
